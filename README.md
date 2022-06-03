@@ -1,4 +1,3 @@
 # chone_practice
 
 local에서 수정1
-local에서 수정2
